@@ -1,0 +1,33 @@
+digraph G {
+  graph [rankdir=TB, fontname="Helvetica", nodesep=0.45, ranksep=0.4, pad=0.3];
+  node  [fontname="Helvetica", fontsize=12, style=filled, fillcolor="#f5f5f5", color="#444444"];
+  edge  [fontname="Helvetica", fontsize=11, color="#444444"];
+
+  start [label="START\nitem text", shape=oval, fillcolor="#c8e6c9"];
+  clean [label="Convert to lowercase\nremove extra spaces", shape=box];
+  i0    [label="i = 0", shape=box];
+  more  [label="i < number of rules?", shape=diamond, fillcolor="#fff9c4"];
+  match [label="Rule word i appears as a\nWHOLE word in the item?\n(bottle = bottles, but pet != carpet)", shape=diamond, fillcolor="#fff9c4"];
+  inc   [label="i = i + 1", shape=box];
+  unk   [label="UNKNOWN\nunknown count + 1\nshow help message", shape=box, fillcolor="#ffcdd2"];
+  cls   [label="Class = class of rule i\nclass count + 1", shape=box, fillcolor="#bbdefb"];
+  type  [label="Special type word found?\n(broken, bulb, wrapper, plastic bag ...)", shape=diamond, fillcolor="#fff9c4"];
+  tspec [label="Type = special type", shape=box];
+  tdef  [label="Type = default type\nof the class", shape=box];
+  show  [label="Show class, type (Recyclable / Non-recyclable /\nCompostable / Handle with care) and disposal tip", shape=parallelogram];
+  stop  [label="END", shape=oval, fillcolor="#ffcdd2"];
+
+  start -> clean -> i0 -> more;
+  more -> match [label="yes"];
+  more -> unk   [label="no"];
+  match -> cls  [label="yes"];
+  match -> inc  [label="no"];
+  inc -> more;
+  cls -> type;
+  type -> tspec [label="yes"];
+  type -> tdef  [label="no"];
+  tspec -> show;
+  tdef -> show;
+  show -> stop;
+  unk -> stop;
+}

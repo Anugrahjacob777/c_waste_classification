@@ -1,0 +1,10 @@
+glass bottle
+glass jar
+wine bottle
+beer bottle
+broken glass
+light bulb
+tube light
+window glass
+perfume bottle
+drinking glass

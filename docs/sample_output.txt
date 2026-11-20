@@ -1,0 +1,155 @@
+============================================================
+           WASTE CLASSIFICATION SUMMARY
+============================================================
+Total items classified : 98
+Unknown items          : 3
+
+Count per class:
+  Paper      : 16
+  Plastic    : 18
+  Glass      : 14
+  Metal      : 16
+  Organic    : 18
+  E-waste    : 16
+
+Count per type:
+  RECYCLABLE        : 57
+  NON-RECYCLABLE    : 4
+  COMPOSTABLE       : 18
+  HANDLE WITH CARE  : 19
+
+Waste management contacts (Bengaluru):
+
+[Paper] - 16 item(s)
+  Quantity : Large (bulk)
+  Contact  : Local paper recycler - XXXXXXXXXX
+  Disposal : Keep dry, tie in bundles and give to dry-waste collector / recycler.
+
+[Plastic] - 18 item(s)
+  Quantity : Large (bulk)
+  Contact  : Saahas Zero Waste - XXXXXXXXXX
+  Disposal : Rinse, dry and put in the DRY waste bin. Do not burn plastic.
+
+[Glass] - 14 item(s)
+  Quantity : Large (bulk)
+  Contact  : Local glass scrap dealer - XXXXXXXXXX
+  Disposal : Wrap broken glass in paper; give whole bottles to scrap dealer.
+
+[Metal] - 16 item(s)
+  Quantity : Large (bulk)
+  Contact  : Metal recycling unit - XXXXXXXXXX
+  Disposal : Sell or give to a scrap dealer; metal is fully recyclable.
+
+[Organic] - 18 item(s)
+  Quantity : Large (bulk)
+  Contact  : Wet waste processing unit - XXXXXXXXXX
+  Disposal : Put in WET waste bin or compost at home / community compost pit.
+
+[E-waste] - 16 item(s)
+  Quantity : Large (bulk)
+  Contact  : E-Parisaraa (e-waste) - XXXXXXXXXX
+  Disposal : Never put in dustbin. Hand over to an authorised e-waste recycler.
+
+Items list:
+  1. newspaper -> Paper (RECYCLABLE)
+  2. cardboard box -> Paper (RECYCLABLE)
+  3. old magazine -> Paper (RECYCLABLE)
+  4. notebook -> Paper (RECYCLABLE)
+  5. office paper -> Paper (RECYCLABLE)
+  6. paper bag -> Paper (RECYCLABLE)
+  7. pizza box -> Paper (RECYCLABLE)
+  8. egg carton -> Paper (RECYCLABLE)
+  9. cereal box -> Paper (RECYCLABLE)
+  10. brochure -> Paper (RECYCLABLE)
+  11. plastic bottle -> Plastic (RECYCLABLE)
+  12. plastic container -> Plastic (RECYCLABLE)
+  13. pet bottle -> Plastic (RECYCLABLE)
+  14. water bottle -> Plastic (RECYCLABLE)
+  15. shampoo bottle -> Plastic (RECYCLABLE)
+  16. toothbrush -> Plastic (RECYCLABLE)
+  17. plastic bag -> Plastic (NON-RECYCLABLE)
+  18. straw -> Plastic (NON-RECYCLABLE)
+  19. chip wrapper -> Plastic (NON-RECYCLABLE)
+  20. toy car -> Plastic (RECYCLABLE)
+  21. glass bottle -> Glass (RECYCLABLE)
+  22. glass jar -> Glass (RECYCLABLE)
+  23. wine bottle -> Glass (RECYCLABLE)
+  24. beer bottle -> Glass (RECYCLABLE)
+  25. broken glass -> Glass (HANDLE WITH CARE)
+  26. light bulb -> Glass (HANDLE WITH CARE)
+  27. tube light -> Glass (HANDLE WITH CARE)
+  28. window glass -> Glass (RECYCLABLE)
+  29. perfume bottle -> Glass (RECYCLABLE)
+  30. drinking glass -> Glass (RECYCLABLE)
+  31. steel spoon -> Metal (RECYCLABLE)
+  32. aluminium foil -> Metal (RECYCLABLE)
+  33. soft drink can -> Metal (RECYCLABLE)
+  34. tin container -> Metal (RECYCLABLE)
+  35. copper wire -> Metal (RECYCLABLE)
+  36. iron nail -> Metal (RECYCLABLE)
+  37. brass lock -> Metal (RECYCLABLE)
+  38. steel plate -> Metal (RECYCLABLE)
+  39. metal lid -> Metal (RECYCLABLE)
+  40. door key -> Metal (RECYCLABLE)
+  41. food waste -> Organic (COMPOSTABLE)
+  42. banana peel -> Organic (COMPOSTABLE)
+  43. vegetable scraps -> Organic (COMPOSTABLE)
+  44. stale bread -> Organic (COMPOSTABLE)
+  45. leftover rice -> Organic (COMPOSTABLE)
+  46. coffee grounds -> Organic (COMPOSTABLE)
+  47. eggshell -> Organic (COMPOSTABLE)
+  48. dry leaves -> Organic (COMPOSTABLE)
+  49. garden waste -> Organic (COMPOSTABLE)
+  50. tea leaves -> Organic (COMPOSTABLE)
+  51. old mobile phone -> E-waste (HANDLE WITH CARE)
+  52. laptop charger -> E-waste (HANDLE WITH CARE)
+  53. used battery -> E-waste (HANDLE WITH CARE)
+  54. earphones -> E-waste (HANDLE WITH CARE)
+  55. computer mouse -> E-waste (HANDLE WITH CARE)
+  56. keyboard -> E-waste (HANDLE WITH CARE)
+  57. usb cable -> E-waste (HANDLE WITH CARE)
+  58. circuit board -> E-waste (HANDLE WITH CARE)
+  59. power bank -> E-waste (HANDLE WITH CARE)
+  60. television remote -> E-waste (HANDLE WITH CARE)
+  61. paper cup -> Paper (RECYCLABLE)
+  62. envelope -> Paper (RECYCLABLE)
+  63. old textbook -> Paper (RECYCLABLE)
+  64. receipt -> Paper (RECYCLABLE)
+  65. gift wrapping paper -> Paper (RECYCLABLE)
+  66. calendar -> Paper (RECYCLABLE)
+  67. toy robot -> Plastic (RECYCLABLE)
+  68. lego toy blocks -> Plastic (RECYCLABLE)
+  69. plastic bucket -> Plastic (RECYCLABLE)
+  70. milk packet -> Plastic (RECYCLABLE)
+  71. plastic cup -> Plastic (RECYCLABLE)
+  72. thermocol box -> Plastic (NON-RECYCLABLE)
+  73. plastic chair -> Plastic (RECYCLABLE)
+  74. kids toys -> Plastic (RECYCLABLE)
+  75. glass tumbler -> Glass (RECYCLABLE)
+  76. mirror -> Glass (RECYCLABLE)
+  77. ketchup bottle -> Glass (RECYCLABLE)
+  78. jam jar -> Glass (RECYCLABLE)
+  79. food can -> Metal (RECYCLABLE)
+  80. steel bottle -> Metal (RECYCLABLE)
+  81. aluminium tray -> Metal (RECYCLABLE)
+  82. iron pan -> Metal (RECYCLABLE)
+  83. copper pipe -> Metal (RECYCLABLE)
+  84. metal hanger -> Metal (RECYCLABLE)
+  85. bread slices -> Organic (COMPOSTABLE)
+  86. tomato -> Organic (COMPOSTABLE)
+  87. potato peels -> Organic (COMPOSTABLE)
+  88. onion skin -> Organic (COMPOSTABLE)
+  89. rotten vegetables -> Organic (COMPOSTABLE)
+  90. cooked food -> Organic (COMPOSTABLE)
+  91. fruit salad leftover -> Organic (COMPOSTABLE)
+  92. flower petals -> Organic (COMPOSTABLE)
+  93. wifi router -> E-waste (HANDLE WITH CARE)
+  94. smartwatch -> E-waste (HANDLE WITH CARE)
+  95. old speaker -> E-waste (HANDLE WITH CARE)
+  96. led tv -> E-waste (HANDLE WITH CARE)
+  97. pen drive -> E-waste (HANDLE WITH CARE)
+  98. printer -> E-waste (HANDLE WITH CARE)
+
+Note: Rules are predefined and educational. Actual disposal
+rules may vary by location. Please verify contact numbers.
+============================================================

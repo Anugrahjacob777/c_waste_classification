@@ -1,0 +1,52 @@
+digraph G {
+  graph [rankdir=TB, fontname="Helvetica", nodesep=0.45, ranksep=0.4, pad=0.3];
+  node  [fontname="Helvetica", fontsize=12, style=filled, fillcolor="#f5f5f5", color="#444444"];
+  edge  [fontname="Helvetica", fontsize=11, color="#444444"];
+
+  start  [label="START", shape=oval, fillcolor="#c8e6c9"];
+  menu   [label="Main menu\n1 Text  2 File  3 Camera\n4 Summary  0 Exit", shape=parallelogram];
+  choice [label="User choice?", shape=diamond, fillcolor="#fff9c4"];
+
+  text   [label="TEXT mode\nread item name", shape=parallelogram];
+  tcheck [label="Typed text is\nback / finish / item?", shape=diamond, fillcolor="#fff9c4"];
+  addt   [label="Classify item\n(see classification flowchart)\nupdate counts", shape=box];
+
+  file   [label="FILE mode\nchoose all_items / test file / own file", shape=parallelogram];
+  fopen  [label="Open file OK?", shape=diamond, fillcolor="#fff9c4"];
+  fread  [label="Read next line\nuntil end of file", shape=box];
+  addf   [label="Classify each line\nupdate counts", shape=box];
+
+  cam    [label="CAMERA mode\nshow 'Under construction'", shape=box];
+
+  summ   [label="SUMMARY screen\ntotal, unknown, count per class / type\n(only classes with at least 1 item)\ncontact numbers by class and quantity", shape=box, fillcolor="#bbdefb"];
+  save   [label="Save to export/ folder?\n(waste_summary.txt + classified_items.csv)", shape=diamond, fillcolor="#fff9c4"];
+  saved  [label="Write files", shape=box];
+  bye    [label="END", shape=oval, fillcolor="#ffcdd2"];
+
+  start -> menu -> choice;
+  choice -> text   [label="1"];
+  choice -> file   [label="2"];
+  choice -> cam    [label="3"];
+  choice -> summ   [label="4"];
+  choice -> bye    [label="0"];
+  choice -> menu   [label="invalid", style=dashed];
+
+  text -> tcheck;
+  tcheck -> addt   [label="item"];
+  addt -> text;
+  tcheck -> summ   [label="finish"];
+  tcheck -> menu   [label="back / 0"];
+
+  file -> fopen;
+  fopen -> fread   [label="yes"];
+  fopen -> file    [label="no: error message", style=dashed];
+  fread -> addf -> summ;
+  file -> menu     [label="0 Back"];
+
+  cam -> menu      [label="0 Back"];
+
+  summ -> save;
+  save -> saved    [label="1 yes"];
+  saved -> summ;
+  save -> menu     [label="0 Back"];
+}

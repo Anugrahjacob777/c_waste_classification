@@ -1,0 +1,99 @@
+item,class,type
+newspaper,Paper,RECYCLABLE
+cardboard box,Paper,RECYCLABLE
+old magazine,Paper,RECYCLABLE
+notebook,Paper,RECYCLABLE
+office paper,Paper,RECYCLABLE
+paper bag,Paper,RECYCLABLE
+pizza box,Paper,RECYCLABLE
+egg carton,Paper,RECYCLABLE
+cereal box,Paper,RECYCLABLE
+brochure,Paper,RECYCLABLE
+plastic bottle,Plastic,RECYCLABLE
+plastic container,Plastic,RECYCLABLE
+pet bottle,Plastic,RECYCLABLE
+water bottle,Plastic,RECYCLABLE
+shampoo bottle,Plastic,RECYCLABLE
+toothbrush,Plastic,RECYCLABLE
+plastic bag,Plastic,NON-RECYCLABLE
+straw,Plastic,NON-RECYCLABLE
+chip wrapper,Plastic,NON-RECYCLABLE
+toy car,Plastic,RECYCLABLE
+glass bottle,Glass,RECYCLABLE
+glass jar,Glass,RECYCLABLE
+wine bottle,Glass,RECYCLABLE
+beer bottle,Glass,RECYCLABLE
+broken glass,Glass,HANDLE WITH CARE
+light bulb,Glass,HANDLE WITH CARE
+tube light,Glass,HANDLE WITH CARE
+window glass,Glass,RECYCLABLE
+perfume bottle,Glass,RECYCLABLE
+drinking glass,Glass,RECYCLABLE
+steel spoon,Metal,RECYCLABLE
+aluminium foil,Metal,RECYCLABLE
+soft drink can,Metal,RECYCLABLE
+tin container,Metal,RECYCLABLE
+copper wire,Metal,RECYCLABLE
+iron nail,Metal,RECYCLABLE
+brass lock,Metal,RECYCLABLE
+steel plate,Metal,RECYCLABLE
+metal lid,Metal,RECYCLABLE
+door key,Metal,RECYCLABLE
+food waste,Organic,COMPOSTABLE
+banana peel,Organic,COMPOSTABLE
+vegetable scraps,Organic,COMPOSTABLE
+stale bread,Organic,COMPOSTABLE
+leftover rice,Organic,COMPOSTABLE
+coffee grounds,Organic,COMPOSTABLE
+eggshell,Organic,COMPOSTABLE
+dry leaves,Organic,COMPOSTABLE
+garden waste,Organic,COMPOSTABLE
+tea leaves,Organic,COMPOSTABLE
+old mobile phone,E-waste,HANDLE WITH CARE
+laptop charger,E-waste,HANDLE WITH CARE
+used battery,E-waste,HANDLE WITH CARE
+earphones,E-waste,HANDLE WITH CARE
+computer mouse,E-waste,HANDLE WITH CARE
+keyboard,E-waste,HANDLE WITH CARE
+usb cable,E-waste,HANDLE WITH CARE
+circuit board,E-waste,HANDLE WITH CARE
+power bank,E-waste,HANDLE WITH CARE
+television remote,E-waste,HANDLE WITH CARE
+paper cup,Paper,RECYCLABLE
+envelope,Paper,RECYCLABLE
+old textbook,Paper,RECYCLABLE
+receipt,Paper,RECYCLABLE
+gift wrapping paper,Paper,RECYCLABLE
+calendar,Paper,RECYCLABLE
+toy robot,Plastic,RECYCLABLE
+lego toy blocks,Plastic,RECYCLABLE
+plastic bucket,Plastic,RECYCLABLE
+milk packet,Plastic,RECYCLABLE
+plastic cup,Plastic,RECYCLABLE
+thermocol box,Plastic,NON-RECYCLABLE
+plastic chair,Plastic,RECYCLABLE
+kids toys,Plastic,RECYCLABLE
+glass tumbler,Glass,RECYCLABLE
+mirror,Glass,RECYCLABLE
+ketchup bottle,Glass,RECYCLABLE
+jam jar,Glass,RECYCLABLE
+food can,Metal,RECYCLABLE
+steel bottle,Metal,RECYCLABLE
+aluminium tray,Metal,RECYCLABLE
+iron pan,Metal,RECYCLABLE
+copper pipe,Metal,RECYCLABLE
+metal hanger,Metal,RECYCLABLE
+bread slices,Organic,COMPOSTABLE
+tomato,Organic,COMPOSTABLE
+potato peels,Organic,COMPOSTABLE
+onion skin,Organic,COMPOSTABLE
+rotten vegetables,Organic,COMPOSTABLE
+cooked food,Organic,COMPOSTABLE
+fruit salad leftover,Organic,COMPOSTABLE
+flower petals,Organic,COMPOSTABLE
+wifi router,E-waste,HANDLE WITH CARE
+smartwatch,E-waste,HANDLE WITH CARE
+old speaker,E-waste,HANDLE WITH CARE
+led tv,E-waste,HANDLE WITH CARE
+pen drive,E-waste,HANDLE WITH CARE
+printer,E-waste,HANDLE WITH CARE
