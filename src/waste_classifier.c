@@ -18,11 +18,19 @@
 #include <stdlib.h>
 #include <string.h>
 #include <ctype.h>
+#include <errno.h>
+
+#ifdef _WIN32
+#include <direct.h>
+#else
+#include <sys/stat.h>
+#endif
 
 #define MAX_ITEMS   500
 #define NAME_LEN    60
 #define SMALL_LIMIT 10          /* up to 10 items = small quantity */
 #define ALL_ITEMS_FILE "data/all_items.txt"
+#define EXPORT_FOLDER  "export"
 #define SUMMARY_FILE   "export/waste_summary.txt"
 #define CSV_FILE       "export/classified_items.csv"
 

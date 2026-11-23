@@ -1,0 +1,43 @@
+============================================================
+           WASTE CLASSIFICATION SUMMARY
+============================================================
+Total items classified : 13
+Unknown items          : 1
+
+Count per class:
+  Plastic    : 2
+  Metal      : 11
+
+Count per type:
+  RECYCLABLE        : 13
+
+Waste management contacts (Bengaluru):
+
+[Plastic] - 2 item(s)
+  Quantity : Small (household)
+  Contact  : BBMP Sahaya helpline - 1533
+  Disposal : Rinse, dry and put in the DRY waste bin. Do not burn plastic.
+
+[Metal] - 11 item(s)
+  Quantity : Large (bulk)
+  Contact  : Metal recycling unit - XXXXXXXXXX
+  Disposal : Sell or give to a scrap dealer; metal is fully recyclable.
+
+Items list:
+  1. plastic bottle -> Plastic (RECYCLABLE)
+  2. plastic bottle -> Plastic (RECYCLABLE)
+  3. iron -> Metal (RECYCLABLE)
+  4. steel spoon -> Metal (RECYCLABLE)
+  5. aluminium foil -> Metal (RECYCLABLE)
+  6. soft drink can -> Metal (RECYCLABLE)
+  7. tin container -> Metal (RECYCLABLE)
+  8. copper wire -> Metal (RECYCLABLE)
+  9. iron nail -> Metal (RECYCLABLE)
+  10. brass lock -> Metal (RECYCLABLE)
+  11. steel plate -> Metal (RECYCLABLE)
+  12. metal lid -> Metal (RECYCLABLE)
+  13. door key -> Metal (RECYCLABLE)
+
+Note: Rules are predefined and educational. Actual disposal
+rules may vary by location. Please verify contact numbers.
+============================================================
