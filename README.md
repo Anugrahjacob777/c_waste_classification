@@ -104,6 +104,7 @@ Count per type:
   HANDLE WITH CARE  : 19
 ```
 
+
 ## Adding your own items
 
 Open `src/waste_classifier.c` and add a row to the `rules[]` table, for example
